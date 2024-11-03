@@ -26,4 +26,4 @@ There are two self-built datasets used in this repository, which contains differ
 
 ## 3. Contact
 
-If you have any question about our work or code, please feel no hesitate to email dumingyang17@nudt.edu.cn.
+If you have any question about our work or code, please feel free to email dumingyang17@nudt.edu.cn.
